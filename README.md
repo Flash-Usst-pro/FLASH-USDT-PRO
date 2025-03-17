@@ -1,4 +1,4 @@
-# Flash USDT Pro â€“ The Best Temporary USDT Solution on the Market
+# Flash USDT Pro“ The Best Temporary USDT Solution on the Market
 
 **Flash USDT Pro** is a cutting-edge tool that allows users to generate and manage **temporary USDT** tokens that remain valid for **90 days** before automatically expiring. This unique system ensures high security and flexibility for **crypto transactions, trading, and financial operations**.
 
@@ -68,7 +68,21 @@ Flash USDT Pro is powered by **Node.js** and integrates **Web3.js** for seamless
    ```sh
    npm install && npm start
    ```  
+## 📺 Watch Flash USDT Pro in Action!
 
+`python
+def watch_demo():
+    """
+    Placeholder function to direct users to the demo video.
+    Replace this with actual functionality to open the video link in the application.
+    """
+    video_url = "https://youtube.com/shorts/JSavji4P2K4?si=2HP4uLld5uIZZhSC"
+    print(f"Watch the demo video here: {video_url}")
+
+# Example usage
+watch_demo()
+
+Click the link above to watch our demo video and see Flash USDT Pro in action!
 ---
 
 ### Android App (NEW!)
