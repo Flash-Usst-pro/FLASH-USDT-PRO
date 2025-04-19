@@ -93,4 +93,4 @@ Flash USDT Pro is the **most powerful temporary USDT solution on the market**, o
 ðŸš€ **Try Flash USDT Pro today and experience the next level of temporary USDT transactions!**
 
 **Contact us on telegram** 👇👇👇
-https://t.me/Johnfrre
+https://t.me/FLASHUSDTy
